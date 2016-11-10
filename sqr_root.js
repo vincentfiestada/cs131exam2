@@ -49,10 +49,10 @@ function squareRootN(p) {
 	console.log("\nFinal estimate was ", answer(sqrt));
 	console.log("-----------------------------------------");
 	if (converged) {
-		console.log("Convergence achieved");
+		console.log("Converging.");
 	}
 	else {
-		console.log(error("Too many steps. Convergence not achieved."));
+		console.log(error("Too many steps. Convergence too slow."));
 	}
 }
 
