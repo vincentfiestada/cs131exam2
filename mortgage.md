@@ -1,7 +1,7 @@
 Determine Interest Rate via Regula Falsi
 =======================================
 
-This program colculates an upper and lower bound for the interest rate based on the parameters for loan duration, loan amount, monthly payment and maximum gap. These parameters can be customized in the commandline.
+This program calculates an upper and lower bound for the interest rate based on the parameters for loan duration, loan amount, monthly payment and maximum gap. These parameters can be customized in the commandline.
 
 ## Usage
 
